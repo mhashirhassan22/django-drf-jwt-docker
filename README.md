@@ -1,4 +1,5 @@
-# Django Skeleton Project -- Xit Firm
+# Django JWT Project
+This project uses best practices and provide boilerplate code to include user authentication using **django-simplejwt**. Tests and OpenAPI (swagger) is included. You may use this as template for your Django-Rest-Framework (DRF) application. Suitable for dev and production!
 
 ## Running the app locally
 
